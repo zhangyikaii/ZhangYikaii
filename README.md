@@ -6,7 +6,7 @@
 
 > :rice: 向阳而生.
 
-My research interests include Machine Learning and Data Mining. Currently, I focus on learning in extreme environments, including Few-Shot (Meta) Learning, Debias and Model Reuse (Transfer of Pre-trained Models).
+My research interests include Machine Learning and Data Mining. Currently, I focus on learning in extreme environments, including Pre-trained Model Reuse (including LLM), Few-Shot (Meta) Learning, and Out-of-Distribution Generalization (Debias).
 
 &nbsp;
 
