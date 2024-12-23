@@ -8,6 +8,8 @@
 
 My research interests include Machine Learning and Data Mining. Currently, I focus on learning in extreme environments, including Pre-trained Model Reuse (including LLM), Few-Shot (Meta) Learning, and Out-of-Distribution Generalization (Debias).
 
+**Now-Join-Us** Group [here](https://github.com/Now-Join-Us)~
+
 &nbsp;
 
 &nbsp;
@@ -22,5 +24,3 @@ My research interests include Machine Learning and Data Mining. Currently, I foc
     <a href="cifar10" alt="WeChat"><img src="https://raw.githubusercontent.com/ZhangYikaii/ZhangYikaii/main/assets/wechat-fill.svg"></a>
   </p>
 </p>
-
-**Now-Join-Us** Group [here](https://github.com/Now-Join-Us)~
