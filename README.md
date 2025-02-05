@@ -4,9 +4,9 @@
 
 ## 张 逸凯 (Yi-Kai Zhang)
 
-> :rice: 向阳而生.
+:rice:
 
-Homepage [click here](https://zhangyikaii.github.io/)
+**My Homepage** [click here](https://zhangyikaii.github.io/)
 
 **Now-Join-Us** Group [here](https://github.com/Now-Join-Us)~
 
