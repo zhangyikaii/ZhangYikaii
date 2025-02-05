@@ -6,7 +6,7 @@
 
 > :rice: 向阳而生.
 
-My research interests include Machine Learning and Data Mining. Currently, I focus on learning in extreme environments, including Pre-trained Model Reuse (including LLM), Few-Shot (Meta) Learning, and Out-of-Distribution Generalization (Debias).
+Homepage [click here](https://zhangyikaii.github.io/)
 
 **Now-Join-Us** Group [here](https://github.com/Now-Join-Us)~
 
